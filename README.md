@@ -1,7 +1,6 @@
 - hello, world! I'm @jhanishant911
 - I’m interested in Data Science
-- I’m currently learning to code
-- 📫 How to reach me ...
+- I’m currently learning to code and use this platform
 
 <!---
 jhanishant911/jhanishant911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
