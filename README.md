@@ -1,4 +1,4 @@
-- hello, world! I'm @jhanishant911
+- hello, world! I'm Nishant
 - I’m interested in Data Science
 - I’m currently learning to code and use this platform
 
